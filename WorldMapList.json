@@ -1,0 +1,1014 @@
+[
+    {
+        "Name": "アセンション島",
+        "Domain": ".ac"
+    },
+    {
+        "Name": "アンドラ",
+        "Domain": ".ad"
+    },
+    {
+        "Name": "アラブ首長国連邦",
+        "Domain": ".ae"
+    },
+    {
+        "Name": "アフガニスタン",
+        "Domain": ".af"
+    },
+    {
+        "Name": "アンティグア・バーブーダ",
+        "Domain": ".ag"
+    },
+    {
+        "Name": "アンギラ",
+        "Domain": ".ai"
+    },
+    {
+        "Name": "アルバニア",
+        "Domain": ".al"
+    },
+    {
+        "Name": "アルメニア",
+        "Domain": ".am"
+    },
+    {
+        "Name": "オランダ領アンティル",
+        "Domain": ".an"
+    },
+    {
+        "Name": "アンゴラ",
+        "Domain": ".ao"
+    },
+    {
+        "Name": "南極",
+        "Domain": ".aq"
+    },
+    {
+        "Name": "アルゼンチン",
+        "Domain": ".ar"
+    },
+    {
+        "Name": "アメリカ領サモア",
+        "Domain": ".as"
+    },
+    {
+        "Name": "オーストリア",
+        "Domain": ".at"
+    },
+    {
+        "Name": "オーストラリア",
+        "Domain": ".au"
+    },
+    {
+        "Name": "アルバ",
+        "Domain": ".aw"
+    },
+    {
+        "Name": "オーランド諸島",
+        "Domain": ".ax"
+    },
+    {
+        "Name": "アゼルバイジャン",
+        "Domain": ".az"
+    },
+    {
+        "Name": "ボスニア・ヘルツェゴビナ",
+        "Domain": ".ba"
+    },
+    {
+        "Name": "バルバドス",
+        "Domain": ".bb"
+    },
+    {
+        "Name": "バングラデシュ",
+        "Domain": ".bd"
+    },
+    {
+        "Name": "ベルギー",
+        "Domain": ".be"
+    },
+    {
+        "Name": "ブルキナファソ",
+        "Domain": ".bf"
+    },
+    {
+        "Name": "ブルガリア",
+        "Domain": ".bg"
+    },
+    {
+        "Name": "バーレーン",
+        "Domain": ".bh"
+    },
+    {
+        "Name": "ブルンジ",
+        "Domain": ".bi"
+    },
+    {
+        "Name": "ベナン",
+        "Domain": ".bj"
+    },
+    {
+        "Name": "バミューダ諸島",
+        "Domain": ".bm"
+    },
+    {
+        "Name": "ブルネイ",
+        "Domain": ".bn"
+    },
+    {
+        "Name": "ボリビア",
+        "Domain": ".bo"
+    },
+    {
+        "Name": "ボネール島",
+        "Domain": ".bq"
+    },
+    {
+        "Name": "ブラジル",
+        "Domain": ".br"
+    },
+    {
+        "Name": "バハマ",
+        "Domain": ".bs"
+    },
+    {
+        "Name": "ブータン",
+        "Domain": ".bt"
+    },
+    {
+        "Name": "ブーベ島",
+        "Domain": ".bv"
+    },
+    {
+        "Name": "ボツワナ",
+        "Domain": ".bw"
+    },
+    {
+        "Name": "ベラルーシ",
+        "Domain": ".by"
+    },
+    {
+        "Name": "ベリーズ",
+        "Domain": ".bz"
+    },
+    {
+        "Name": "カナダ",
+        "Domain": ".ca"
+    },
+    {
+        "Name": "ココス諸島",
+        "Domain": ".cc"
+    },
+    {
+        "Name": "コンゴ民主共和国",
+        "Domain": ".cd"
+    },
+    {
+        "Name": "中央アフリカ共和国",
+        "Domain": ".cf"
+    },
+    {
+        "Name": "コンゴ共和国",
+        "Domain": ".cg"
+    },
+    {
+        "Name": "スイス",
+        "Domain": ".ch"
+    },
+    {
+        "Name": "コートジボワール",
+        "Domain": ".ci"
+    },
+    {
+        "Name": "クック諸島",
+        "Domain": ".ck"
+    },
+    {
+        "Name": "チリ",
+        "Domain": ".cl"
+    },
+    {
+        "Name": "カメルーン",
+        "Domain": ".cm"
+    },
+    {
+        "Name": "中国",
+        "Domain": ".cn"
+    },
+    {
+        "Name": "コロンビア",
+        "Domain": ".co"
+    },
+    {
+        "Name": "コスタリカ",
+        "Domain": ".cr"
+    },
+    {
+        "Name": "キューバ",
+        "Domain": ".cu"
+    },
+    {
+        "Name": "カーボベルデ",
+        "Domain": ".cv"
+    },
+    {
+        "Name": "キュラソー島",
+        "Domain": ".cw"
+    },
+    {
+        "Name": "クリスマス島",
+        "Domain": ".cx"
+    },
+    {
+        "Name": "キプロス",
+        "Domain": ".cy"
+    },
+    {
+        "Name": "チェコ",
+        "Domain": ".cz"
+    },
+    {
+        "Name": "ドイツ",
+        "Domain": ".de"
+    },
+    {
+        "Name": "ジブチ",
+        "Domain": ".dj"
+    },
+    {
+        "Name": "デンマーク",
+        "Domain": ".dk"
+    },
+    {
+        "Name": "ドミニカ国",
+        "Domain": ".dm"
+    },
+    {
+        "Name": "ドミニカ共和国",
+        "Domain": ".do"
+    },
+    {
+        "Name": "アルジェリア",
+        "Domain": ".dz"
+    },
+    {
+        "Name": "エクアドル",
+        "Domain": ".ec"
+    },
+    {
+        "Name": "エストニア",
+        "Domain": ".ee"
+    },
+    {
+        "Name": "エジプト",
+        "Domain": ".eg"
+    },
+    {
+        "Name": "西サハラ",
+        "Domain": ".eh"
+    },
+    {
+        "Name": "エリトリア",
+        "Domain": ".er"
+    },
+    {
+        "Name": "スペイン",
+        "Domain": ".es"
+    },
+    {
+        "Name": "エチオピア",
+        "Domain": ".et"
+    },
+    {
+        "Name": "欧州連合",
+        "Domain": ".eu"
+    },
+    {
+        "Name": "フィンランド",
+        "Domain": ".fi"
+    },
+    {
+        "Name": "フィジー",
+        "Domain": ".fj"
+    },
+    {
+        "Name": "フォークランド諸島",
+        "Domain": ".fk"
+    },
+    {
+        "Name": "ミクロネシア連邦",
+        "Domain": ".fm"
+    },
+    {
+        "Name": "フェロー諸島",
+        "Domain": ".fo"
+    },
+    {
+        "Name": "フランス",
+        "Domain": ".fr"
+    },
+    {
+        "Name": "ガボン",
+        "Domain": ".ga"
+    },
+    {
+        "Name": "イギリス",
+        "Domain": ".gb"
+    },
+    {
+        "Name": "グレナダ",
+        "Domain": ".gd"
+    },
+    {
+        "Name": "ジョージア",
+        "Domain": ".ge"
+    },
+    {
+        "Name": "フランス領ギアナ",
+        "Domain": ".gf"
+    },
+    {
+        "Name": "ガーンジー島",
+        "Domain": ".gg"
+    },
+    {
+        "Name": "ガーナ",
+        "Domain": ".gh"
+    },
+    {
+        "Name": "ジブラルタル",
+        "Domain": ".gi"
+    },
+    {
+        "Name": "グリーンランド",
+        "Domain": ".gl"
+    },
+    {
+        "Name": "ガンビア",
+        "Domain": ".gm"
+    },
+    {
+        "Name": "ギニア",
+        "Domain": ".gn"
+    },
+    {
+        "Name": "グアドループ",
+        "Domain": ".gp"
+    },
+    {
+        "Name": "赤道ギニア",
+        "Domain": ".gq"
+    },
+    {
+        "Name": "ギリシャ",
+        "Domain": ".gr"
+    },
+    {
+        "Name": "サウスジョージア・サウスサンドウィッチ諸島",
+        "Domain": ".gs"
+    },
+    {
+        "Name": "グアテマラ",
+        "Domain": ".gt"
+    },
+    {
+        "Name": "グアム",
+        "Domain": ".gu"
+    },
+    {
+        "Name": "ギニアビサウ",
+        "Domain": ".gw"
+    },
+    {
+        "Name": "ガイアナ",
+        "Domain": ".gy"
+    },
+    {
+        "Name": "香港",
+        "Domain": ".hk"
+    },
+    {
+        "Name": "ハード島とマクドナルド諸島",
+        "Domain": ".hm"
+    },
+    {
+        "Name": "ホンジュラス",
+        "Domain": ".hn"
+    },
+    {
+        "Name": "クロアチア",
+        "Domain": ".hr"
+    },
+    {
+        "Name": "ハイチ",
+        "Domain": ".ht"
+    },
+    {
+        "Name": "ハンガリー",
+        "Domain": ".hu"
+    },
+    {
+        "Name": "インドネシア",
+        "Domain": ".id"
+    },
+    {
+        "Name": "アイルランド",
+        "Domain": ".ie"
+    },
+    {
+        "Name": "イスラエル",
+        "Domain": ".il"
+    },
+    {
+        "Name": "マン島",
+        "Domain": ".im"
+    },
+    {
+        "Name": "インド",
+        "Domain": ".in"
+    },
+    {
+        "Name": "イギリス領インド洋地域",
+        "Domain": ".io"
+    },
+    {
+        "Name": "イラク",
+        "Domain": ".iq"
+    },
+    {
+        "Name": "イラン",
+        "Domain": ".ir"
+    },
+    {
+        "Name": "アイスランド",
+        "Domain": ".is"
+    },
+    {
+        "Name": "イタリア",
+        "Domain": ".it"
+    },
+    {
+        "Name": "ジャージー島",
+        "Domain": ".je"
+    },
+    {
+        "Name": "ジャマイカ",
+        "Domain": ".jm"
+    },
+    {
+        "Name": "ヨルダン",
+        "Domain": ".jo"
+    },
+    {
+        "Name": "日本",
+        "Domain": ".jp"
+    },
+    {
+        "Name": "ケニア",
+        "Domain": ".ke"
+    },
+    {
+        "Name": "キルギス",
+        "Domain": ".kg"
+    },
+    {
+        "Name": "カンボジア",
+        "Domain": ".kh"
+    },
+    {
+        "Name": "キリバス",
+        "Domain": ".ki"
+    },
+    {
+        "Name": "コモロ",
+        "Domain": ".km"
+    },
+    {
+        "Name": "セントクリストファー・ネイビス",
+        "Domain": ".kn"
+    },
+    {
+        "Name": "北朝鮮",
+        "Domain": ".kp"
+    },
+    {
+        "Name": "韓国",
+        "Domain": ".kr"
+    },
+    {
+        "Name": "クルディスタン地域",
+        "Domain": ".krd"
+    },
+    {
+        "Name": "クウェート",
+        "Domain": ".kw"
+    },
+    {
+        "Name": "ケイマン諸島",
+        "Domain": ".ky"
+    },
+    {
+        "Name": "カザフスタン",
+        "Domain": ".kz"
+    },
+    {
+        "Name": "ラオス",
+        "Domain": ".la"
+    },
+    {
+        "Name": "レバノン",
+        "Domain": ".lb"
+    },
+    {
+        "Name": "セントルシア",
+        "Domain": ".lc"
+    },
+    {
+        "Name": "リヒテンシュタイン",
+        "Domain": ".li"
+    },
+    {
+        "Name": "スリランカ",
+        "Domain": ".lk"
+    },
+    {
+        "Name": "リベリア",
+        "Domain": ".lr"
+    },
+    {
+        "Name": "レソト",
+        "Domain": ".ls"
+    },
+    {
+        "Name": "リトアニア",
+        "Domain": ".lt"
+    },
+    {
+        "Name": "ルクセンブルク",
+        "Domain": ".lu"
+    },
+    {
+        "Name": "ラトビア",
+        "Domain": ".lv"
+    },
+    {
+        "Name": "リビア",
+        "Domain": ".ly"
+    },
+    {
+        "Name": "モロッコ",
+        "Domain": ".ma"
+    },
+    {
+        "Name": "モナコ",
+        "Domain": ".mc"
+    },
+    {
+        "Name": "モルドバ",
+        "Domain": ".md"
+    },
+    {
+        "Name": "モンテネグロ",
+        "Domain": ".me"
+    },
+    {
+        "Name": "マダガスカル",
+        "Domain": ".mg"
+    },
+    {
+        "Name": "マーシャル諸島",
+        "Domain": ".mh"
+    },
+    {
+        "Name": "北マケドニア",
+        "Domain": ".mk"
+    },
+    {
+        "Name": "マリ",
+        "Domain": ".ml"
+    },
+    {
+        "Name": "ミャンマー",
+        "Domain": ".mm"
+    },
+    {
+        "Name": "モンゴル",
+        "Domain": ".mn"
+    },
+    {
+        "Name": "マカオ",
+        "Domain": ".mo"
+    },
+    {
+        "Name": "北マリアナ諸島",
+        "Domain": ".mp"
+    },
+    {
+        "Name": "マルティニーク",
+        "Domain": ".mq"
+    },
+    {
+        "Name": "モーリタニア",
+        "Domain": ".mr"
+    },
+    {
+        "Name": "モントセラト",
+        "Domain": ".ms"
+    },
+    {
+        "Name": "マルタ",
+        "Domain": ".mt"
+    },
+    {
+        "Name": "モーリシャス",
+        "Domain": ".mu"
+    },
+    {
+        "Name": "モルディブ",
+        "Domain": ".mv"
+    },
+    {
+        "Name": "マラウイ",
+        "Domain": ".mw"
+    },
+    {
+        "Name": "メキシコ",
+        "Domain": ".mx"
+    },
+    {
+        "Name": "マレーシア",
+        "Domain": ".my"
+    },
+    {
+        "Name": "モザンビーク",
+        "Domain": ".mz"
+    },
+    {
+        "Name": "ナミビア",
+        "Domain": ".na"
+    },
+    {
+        "Name": "ニューカレドニア",
+        "Domain": ".nc"
+    },
+    {
+        "Name": "ニジェール",
+        "Domain": ".ne"
+    },
+    {
+        "Name": "ノーフォーク島",
+        "Domain": ".nf"
+    },
+    {
+        "Name": "ナイジェリア",
+        "Domain": ".ng"
+    },
+    {
+        "Name": "ニカラグア",
+        "Domain": ".ni"
+    },
+    {
+        "Name": "オランダ",
+        "Domain": ".nl"
+    },
+    {
+        "Name": "ノルウェー",
+        "Domain": ".no"
+    },
+    {
+        "Name": "ネパール",
+        "Domain": ".np"
+    },
+    {
+        "Name": "ナウル",
+        "Domain": ".nr"
+    },
+    {
+        "Name": "ニウエ",
+        "Domain": ".nu"
+    },
+    {
+        "Name": "ニュージーランド",
+        "Domain": ".nz"
+    },
+    {
+        "Name": "オマーン",
+        "Domain": ".om"
+    },
+    {
+        "Name": "パナマ",
+        "Domain": ".pa"
+    },
+    {
+        "Name": "ペルー",
+        "Domain": ".pe"
+    },
+    {
+        "Name": "フランス領ポリネシア",
+        "Domain": ".pf"
+    },
+    {
+        "Name": "パプアニューギニア",
+        "Domain": ".pg"
+    },
+    {
+        "Name": "フィリピン",
+        "Domain": ".ph"
+    },
+    {
+        "Name": "パキスタン",
+        "Domain": ".pk"
+    },
+    {
+        "Name": "ポーランド",
+        "Domain": ".pl"
+    },
+    {
+        "Name": "サンピエール島・ミクロン島",
+        "Domain": ".pm"
+    },
+    {
+        "Name": "ピトケアン諸島",
+        "Domain": ".pn"
+    },
+    {
+        "Name": "プエルトリコ",
+        "Domain": ".pr"
+    },
+    {
+        "Name": "パレスチナ[28]",
+        "Domain": ".ps"
+    },
+    {
+        "Name": "ポルトガル",
+        "Domain": ".pt"
+    },
+    {
+        "Name": "パラオ",
+        "Domain": ".pw"
+    },
+    {
+        "Name": "パラグアイ",
+        "Domain": ".py"
+    },
+    {
+        "Name": "カタール",
+        "Domain": ".qa"
+    },
+    {
+        "Name": "レユニオン",
+        "Domain": ".re"
+    },
+    {
+        "Name": "ルーマニア",
+        "Domain": ".ro"
+    },
+    {
+        "Name": "セルビア",
+        "Domain": ".rs"
+    },
+    {
+        "Name": "ロシア",
+        "Domain": ".ru"
+    },
+    {
+        "Name": "ルワンダ",
+        "Domain": ".rw"
+    },
+    {
+        "Name": "サウジアラビア",
+        "Domain": ".sa"
+    },
+    {
+        "Name": "ソロモン諸島",
+        "Domain": ".sb"
+    },
+    {
+        "Name": "セーシェル",
+        "Domain": ".sc"
+    },
+    {
+        "Name": "スーダン",
+        "Domain": ".sd"
+    },
+    {
+        "Name": "スウェーデン",
+        "Domain": ".se"
+    },
+    {
+        "Name": "シンガポール",
+        "Domain": ".sg"
+    },
+    {
+        "Name": "セントヘレナ",
+        "Domain": ".sh"
+    },
+    {
+        "Name": "スロベニア",
+        "Domain": ".si"
+    },
+    {
+        "Name": "スヴァールバル諸島・ヤンマイエン島",
+        "Domain": ".sj"
+    },
+    {
+        "Name": "スロバキア",
+        "Domain": ".sk"
+    },
+    {
+        "Name": "シエラレオネ",
+        "Domain": ".sl"
+    },
+    {
+        "Name": "サンマリノ",
+        "Domain": ".sm"
+    },
+    {
+        "Name": "セネガル",
+        "Domain": ".sn"
+    },
+    {
+        "Name": "ソマリア",
+        "Domain": ".so"
+    },
+    {
+        "Name": "スリナム",
+        "Domain": ".sr"
+    },
+    {
+        "Name": "南スーダン",
+        "Domain": ".ss"
+    },
+    {
+        "Name": "サントメ・プリンシペ",
+        "Domain": ".st"
+    },
+    {
+        "Name": "ソビエト連邦",
+        "Domain": ".su"
+    },
+    {
+        "Name": "エルサルバドル",
+        "Domain": ".sv"
+    },
+    {
+        "Name": "シント・マールテン",
+        "Domain": ".sx"
+    },
+    {
+        "Name": "シリア",
+        "Domain": ".sy"
+    },
+    {
+        "Name": "エスワティニ",
+        "Domain": ".sz"
+    },
+    {
+        "Name": "タークス・カイコス諸島",
+        "Domain": ".tc"
+    },
+    {
+        "Name": "チャド",
+        "Domain": ".td"
+    },
+    {
+        "Name": "フランス領南方・南極地域",
+        "Domain": ".tf"
+    },
+    {
+        "Name": "トーゴ",
+        "Domain": ".tg"
+    },
+    {
+        "Name": "タイ",
+        "Domain": ".th"
+    },
+    {
+        "Name": "タジキスタン",
+        "Domain": ".tj"
+    },
+    {
+        "Name": "トケラウ",
+        "Domain": ".tk"
+    },
+    {
+        "Name": "東ティモール",
+        "Domain": ".tl"
+    },
+    {
+        "Name": "トルクメニスタン",
+        "Domain": ".tm"
+    },
+    {
+        "Name": "チュニジア",
+        "Domain": ".tn"
+    },
+    {
+        "Name": "トンガ",
+        "Domain": ".to"
+    },
+    {
+        "Name": "東ティモール",
+        "Domain": ".tp"
+    },
+    {
+        "Name": "トルコ",
+        "Domain": ".tr"
+    },
+    {
+        "Name": "トリニダード・トバゴ",
+        "Domain": ".tt"
+    },
+    {
+        "Name": "ツバル",
+        "Domain": ".tv"
+    },
+    {
+        "Name": "台湾",
+        "Domain": ".tw"
+    },
+    {
+        "Name": "タンザニア",
+        "Domain": ".tz"
+    },
+    {
+        "Name": "ウクライナ",
+        "Domain": ".ua"
+    },
+    {
+        "Name": "ウガンダ",
+        "Domain": ".ug"
+    },
+    {
+        "Name": "イギリス",
+        "Domain": ".uk"
+    },
+    {
+        "Name": "アメリカ",
+        "Domain": ".us"
+    },
+    {
+        "Name": "ウルグアイ",
+        "Domain": ".uy"
+    },
+    {
+        "Name": "ウズベキスタン",
+        "Domain": ".uz"
+    },
+    {
+        "Name": "バチカン市国",
+        "Domain": ".va"
+    },
+    {
+        "Name": "セントビンセント・グレナディーン",
+        "Domain": ".vc"
+    },
+    {
+        "Name": "ベネズエラ",
+        "Domain": ".ve"
+    },
+    {
+        "Name": "イギリス領ヴァージン諸島",
+        "Domain": ".vg"
+    },
+    {
+        "Name": "アメリカ領ヴァージン諸島",
+        "Domain": ".vi"
+    },
+    {
+        "Name": "ベトナム",
+        "Domain": ".vn"
+    },
+    {
+        "Name": "バヌアツ",
+        "Domain": ".vu"
+    },
+    {
+        "Name": "ウォリス・フツナ",
+        "Domain": ".wf"
+    },
+    {
+        "Name": "サモア",
+        "Domain": ".ws"
+    },
+    {
+        "Name": "イエメン",
+        "Domain": ".ye"
+    },
+    {
+        "Name": "マヨット島",
+        "Domain": ".yt"
+    },
+    {
+        "Name": "南アフリカ",
+        "Domain": ".za"
+    },
+    {
+        "Name": "ザンビア",
+        "Domain": ".zm"
+    },
+    {
+        "Name": "ジンバブエ",
+        "Domain": ".zw"
+    }
+]
