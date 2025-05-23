@@ -1,4 +1,5 @@
 const newText = ".jp";
+const googlemap_api = process.env.GOOGLE_MAP_API;
 
 fetch('./WorldMapList.json')
 .then(response=>response.json())
